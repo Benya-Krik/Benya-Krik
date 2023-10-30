@@ -33,15 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benya-krik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-
 <!--
 **Benya-Krik/Benya-Krik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
