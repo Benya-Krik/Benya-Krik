@@ -1,5 +1,15 @@
 ### Hello! 👋
 ### My name is Ilya, I'm Frontend Developer, Welcome to my GitHub. Here you can see my open source projects and contact with me.
+
+<div id="badges">
+  <a href="https://t.me/moartyler">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://career.habr.com/benyakrik">
+    <img src="https://img.shields.io/badge/habr%20career-white?style=for-the-badge&logo=habr&logoColor=lightblue" alt="Habr Badge"/>
+  </a>
+</div>
+
 <!--
 **Benya-Krik/Benya-Krik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
