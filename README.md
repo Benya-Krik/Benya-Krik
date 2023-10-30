@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Ilya, Frontend Developer, Welcome to my GitHub. Here you can see my open source projects and contact with me.</h1>
+<h1 align="center">Hello! I'm Ilya, i'm a Frontend Developer, Welcome to my GitHub. Here you can see my open source projects and contact with me.</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
