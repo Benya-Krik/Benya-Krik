@@ -10,9 +10,9 @@
   <a href="https://career.habr.com/benyakrik">
     <img src="https://img.shields.io/badge/habr%20career-aliceblue?style=for-the-badge&logo=habr&logoColor=blue" alt="Habr Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ilya-ovechkin-928095237">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!--   <a href="https://www.linkedin.com/in/ilya-ovechkin-928095237"> -->
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--   </a> -->
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Benya-Krik&style=flat-square&color=blue" alt="views counter"/>
