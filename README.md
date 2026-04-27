@@ -1,4 +1,4 @@
-<h1 align="center">Hello! contact with me - TG @moartyler</h1>
+<h1 align="center">contact with me - TG @moartyler</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
